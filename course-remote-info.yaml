@@ -1,0 +1,249 @@
+hyperskill_project:
+  id: 112
+  ide_files: https://cogniterra.org/media/attachments/lesson/24956/additional_files.json
+  is_template_based: false
+  use_ide: true
+  environment: unittest
+update_date: "Mon, 02 Oct 2023 12:55:13 UTC"
+stages:
+- id: 609
+  step: 9903
+  is_completed: true
+- id: 610
+  step: 9904
+  is_completed: true
+- id: 611
+  step: 9905
+  is_completed: true
+- id: 612
+  step: 9906
+  is_completed: true
+- id: 613
+  step: 9907
+  is_completed: true
+topics:
+  0:
+  - title: Introduction to Operating systems
+    theory_id: 9704
+  - title: Command line overview
+    theory_id: 8977
+  - title: Working with file modes and permissions
+    theory_id: 13961
+  - title: Introduction to Python
+    theory_id: 5204
+  - title: Overview of the basic program
+    theory_id: 5208
+  - title: Multi-line programs
+    theory_id: 5233
+  - title: "PEP 8: Coding style conventions"
+    theory_id: 5879
+  - title: Comments
+    theory_id: 6081
+  - title: Taking input
+    theory_id: 5913
+  - title: Load module
+    theory_id: 6019
+  - title: Installing packages with pip
+    theory_id: 6230
+  - title: Virtual Environment
+    theory_id: 13923
+  - title: If statement
+    theory_id: 5953
+  - title: Else statement
+    theory_id: 5932
+  - title: For loop
+    theory_id: 6065
+  - title: While loop
+    theory_id: 5940
+  - title: Loop control statements
+    theory_id: 6302
+  - title: PyCharm basics
+    theory_id: 6193
+  - title: Elif statement
+    theory_id: 5926
+  - title: Files
+    theory_id: 13025
+  - title: Program execution
+    theory_id: 6047
+  - title: Errors
+    theory_id: 6052
+  - title: Exceptions
+    theory_id: 6042
+  - title: Built-in exceptions
+    theory_id: 11680
+  - title: Exception handling
+    theory_id: 6270
+  - title: Running Python applications in PyCharm
+    theory_id: 19153
+  - title: Inheritance
+    theory_id: 9844
+  - title: Inheritance in Python
+    theory_id: 7235
+  - title: Polymorphism
+    theory_id: 10027
+  - title: Method overriding
+    theory_id: 7629
+  - title: User-defined exceptions
+    theory_id: 10217
+  - title: Assert statement
+    theory_id: 10372
+  - title: File types
+    theory_id: 13017
+  - title: Introduction to Linux
+    theory_id: 9526
+  - title: File modes and permissions
+    theory_id: 13953
+  - title: Files in Python
+    theory_id: 8691
+  - title: Reading files
+    theory_id: 8139
+  - title: Basic data types
+    theory_id: 5852
+  - title: Quotes and multi-line strings
+    theory_id: 5814
+  - title: Variables
+    theory_id: 5859
+  - title: Invoking a function
+    theory_id: 5891
+  - title: Boolean logic
+    theory_id: 6025
+  - title: List
+    theory_id: 5979
+  - title: Comparisons
+    theory_id: 5920
+  - title: Basic string methods
+    theory_id: 6842
+  - title: Escape sequences
+    theory_id: 7130
+  - title: Split and join
+    theory_id: 6972
+  1:
+  - title: Immutability
+    theory_id: 7929
+  - title: Introduction to OOP
+    theory_id: 3614
+  - title: Debugging Python applications in PyCharm
+    theory_id: 19163
+  - title: Intro to computational thinking
+    theory_id: 8742
+  - title: Components of computational thinking
+    theory_id: 8745
+  - title: Iterators
+    theory_id: 8479
+  - title: Indexes
+    theory_id: 6189
+  - title: Declaring a function
+    theory_id: 5900
+  - title: Scopes
+    theory_id: 6322
+  - title: Identity testing
+    theory_id: 8077
+  - title: Arguments
+    theory_id: 7248
+  - title: Operations with list
+    theory_id: 6031
+  - title: Objects in Python
+    theory_id: 9262
+  - title: Default arguments
+    theory_id: 10295
+  - title: Tuple
+    theory_id: 7462
+  - title: Args
+    theory_id: 8560
+  - title: Dictionary
+    theory_id: 6481
+  - title: Dictionary methods
+    theory_id: 9008
+  - title: Operations with dictionary
+    theory_id: 11096
+  - title: Kwargs
+    theory_id: 9544
+  - title: List comprehension
+    theory_id: 6315
+  - title: Lambda functions
+    theory_id: 7092
+  - title: Functional decomposition
+    theory_id: 9571
+  - title: Slicing
+    theory_id: 6177
+  - title: Ordering and total order
+    theory_id: 9253
+  - title: Sorting a list
+    theory_id: 10059
+  2:
+  - title: Create module
+    theory_id: 6057
+  - title: Class
+    theory_id: 6661
+  - title: Class instances
+    theory_id: 6669
+  - title: Methods
+    theory_id: 6931
+  - title: Methods and attributes
+    theory_id: 6981
+  - title: What is a bug
+    theory_id: 5504
+  - title: Functional testing
+    theory_id: 13438
+  - title: Unit testing
+    theory_id: 7545
+  - title: os module
+    theory_id: 11119
+  - title: Unit testing in Python
+    theory_id: 10795
+  - title: Docstrings
+    theory_id: 11869
+  - title: Pydoc
+    theory_id: 18505
+  - title: Command line arguments
+    theory_id: 7981
+  - title: String formatting
+    theory_id: 6037
+  - title: Type casting
+    theory_id: 6224
+  - title: Function annotations
+    theory_id: 15664
+  - title: Nested lists
+    theory_id: 6938
+  - title: Copy of an object
+    theory_id: 9268
+  3:
+  - title: Regexps in Python
+    theory_id: 9468
+  - title: Escaping in regexps
+    theory_id: 9754
+  - title: Regexp sets and ranges
+    theory_id: 10035
+  - title: Shorthands
+    theory_id: 10142
+  - title: Regexp quantifiers
+    theory_id: 10355
+  - title: Regexps basics
+    theory_id: 7580
+  4:
+  - title: Computer algorithms
+    theory_id: 16547
+  - title: "Big O: how to count it"
+    theory_id: 35901
+  - title: "Best, average and worst cases"
+    theory_id: 20084
+  - title: Data structures
+    theory_id: 16927
+  - title: Pseudocode
+    theory_id: 15090
+  - title: Pseudocode basics
+    theory_id: 19510
+  - title: Complex constructions in pseudocode
+    theory_id: 20922
+  - title: Custom generators
+    theory_id: 8269
+  - title: Graph
+    theory_id: 15967
+  - title: How to read the documentation
+    theory_id: 12125
+  - title: Recursion basics
+    theory_id: 5984
+  - title: Tree
+    theory_id: 5121
+  - title: ast module
+    theory_id: 15487

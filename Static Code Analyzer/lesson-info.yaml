@@ -1,0 +1,8 @@
+type: framework
+content:
+- Search for long lines
+- New checks
+- Analyze multi-file projects
+- Check names according to PEP8
+- Analyze arguments and variables
+current_task: 4
